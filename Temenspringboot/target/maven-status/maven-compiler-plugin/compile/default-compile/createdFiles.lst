@@ -1,0 +1,4 @@
+ru/temen/domain/Student.class
+ru/temen/App.class
+ru/temen/web/StudentController.class
+ru/temen/service/StudentRepo.class
